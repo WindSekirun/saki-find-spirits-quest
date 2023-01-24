@@ -6,7 +6,7 @@
 
 ## 사용방법
 
-파일 다운로드: 
+파일 다운로드: https://github.com/WindSekirun/saki-find-spirits-quest/releases
 
 ```json
 {
